@@ -9,7 +9,7 @@ var boy,boy_img;
 var ground1;
 var tree1,tree_img;
 var stone1;
-var mango1,mango2,mango3,mango4,mango5,mango6, mango9;
+var mango1,mango2,mango3,mango4,mango5,mango6,mango7,mango8;
 var thread;
 
 
